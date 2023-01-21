@@ -1,3 +1,5 @@
+![Screenshot 2020-02-09 at 5 08 54 PM](https://i.postimg.cc/dt6mZCQk/image-1.png)
+
 <h1 align="center">Hi 👋, I'm Aman Jaiswal</h1>
 <h3 align="center">A passionate Full Stack Web Developer, Android App Developer and Data Science & AI-ML enthusiast.</h3>
 
