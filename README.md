@@ -11,6 +11,8 @@
 
 - 👯 I’m looking to collaborate on **some AI-ML or Data Science Project**
 
+- 👨‍💻 My portfolio is available at https://jswalaman.github.io/portfolio/
+
 - 👨‍💻 All of my projects are available at [https://github.com/jswalaman](https://github.com/jswalaman)
 
 - 📝 I regularly write articles on [web development and data structures and algorithms.](web development and data structures and algorithms.)
